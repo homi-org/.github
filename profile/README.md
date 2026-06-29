@@ -2,7 +2,7 @@
 
 # kratuvak
 
-**We pursue ideas at the intersection of physics, computation,<br>language, philosophy, and politics.**
+**We pursue new ideas at the intersection of human desire and machine intelligence.**
 
 <br>
 
