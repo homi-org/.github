@@ -6,6 +6,6 @@
 
 <br>
 
-[**Website**](https://kratuvak.com) · [**Blog**](https://kratuvak.com/blog/) · [**ssh@kratuvak.com**](mailto:ssh@kratuvak.com)
+[**Website**](https://kratuvak.com) · [**ssh@kratuvak.com**](mailto:ssh@kratuvak.com)
 
 </div>
